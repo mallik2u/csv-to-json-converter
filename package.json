@@ -1,0 +1,19 @@
+{
+  "name": "convert-csv-to-json",
+  "version": "1.0.0",
+  "description": "CSV to JSON Coverter by Mallik Cheruvu",
+  "main": "convert.js",
+  "dependencies": {
+    "async": "2.6.1",
+    "csvtojson": "2.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Mallikharjun Cheruvu",
+  "license": "ISC"
+}
